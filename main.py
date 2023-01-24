@@ -112,8 +112,7 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("finished.")
-        time = dt.datetime.now().strftime("%d-%m-%y %H:%M")
+        ended_time = dt.datetime.now().strftime("%d-%m-%y %H:%M")
         send_telegram_message("Bot finished by user at %s" % time)
     except Exception as err:
         send_telegram_message("Bot finished with error: %s" % err)

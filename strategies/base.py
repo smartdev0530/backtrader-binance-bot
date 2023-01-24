@@ -10,7 +10,7 @@ from utils import send_telegram_message
 class StrategyBase(bt.Strategy):
     def __init__(self):
         self.order = None
-        self.last_operation = "SELL"
+        self.last_operation = "BUY"
         self.status = "DISCONNECTED"
         self.bar_executed = 0
         self.buy_price_close = None
@@ -50,7 +50,7 @@ class StrategyBase(bt.Strategy):
         if self.last_operation == "BUY":
             return
 
-        self.log("Buy ordered: $%.2f" % self.data0.close[0], True)
+        # self.log("Buy ordered: $%.2f" % self.data0.close[0], True)
         self.buy_price_close = self.data0.close[0]
         price = self.data0.close[0]
 
@@ -82,9 +82,13 @@ class StrategyBase(bt.Strategy):
 
                 if ENV == PRODUCTION:
                     self.log(
-                        "BUY EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f"
+                        "BUY EXECUTED, Price: %.2f, Close: %.2f, Open: %.2f, low: %.2f, high: %.2f, Cost: %.2f, Comm %.2f,"
                         % (
                             order.ccxt_order["price"],
+                            self.data0.close[0],
+                            self.data0.open[0],
+                            self.data0.low[0],
+                            self.data0.high[0],
                             order.ccxt_order["cost"],
                             order.executed.comm,
                         ),
@@ -106,9 +110,13 @@ class StrategyBase(bt.Strategy):
                 self.reset_sell_indicators()
                 if ENV == PRODUCTION:
                     self.log(
-                        "SELL EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f"
+                        "SELL EXECUTED, Price: %.2f, Close: %.2f, Open: %.2f, low: %.2f, high: %.2f, Cost: %.2f, Comm %.2f"
                         % (
                             order.ccxt_order["price"],
+                            self.data0.close[0],
+                            self.data0.open[0],
+                            self.data0.low[0],
+                            self.data0.high[0],
                             order.ccxt_order["cost"],
                             order.executed.comm,
                         ),
@@ -154,14 +162,13 @@ class StrategyBase(bt.Strategy):
     def log(self, txt, send_telegram=False, color=None):
         # if not DEBUG:
         #     return
-
-        value = datetime.now()
+        time_at_backtrader = datetime.now()
         if len(self) > 0:
-            value = self.data0.datetime.datetime()
+            time_at_binance = self.data0.datetime.datetime()
+            if color:
+                txt = colored(txt, color)
+            print("Time at binance   [%s] %s" % (time_at_binance, txt))
 
-        if color:
-            txt = colored(txt, color)
-
-        print("[%s] %s" % (value.strftime("%d-%m-%y %H:%M"), txt))
+        print("Time at backtrader[%s]" % (time_at_backtrader))
         if send_telegram:
             send_telegram_message(txt)

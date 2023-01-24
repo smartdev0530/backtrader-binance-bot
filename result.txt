@@ -1,0 +1,164 @@
+ENV =  production
+Starting Portfolio Value: 0.34
+Time at backtrader[2023-01-24 05:12:07.263655]
+DELAYED
+LIVE
+Time at binance   [2023-01-23 21:12:00] LIVE DATA - Ready to trade
+Time at backtrader[2023-01-24 05:12:07.432121]
+1.0  --- HOUR --- 
+Time at binance   [2023-01-23 22:12:00] Sell ordered: $23020.94. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 06:12:01.319748]
+2.0  --- HOUR --- 
+Time at binance   [2023-01-23 23:12:00] Sell ordered: $22894.30. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 07:12:01.219493]
+Time at binance   [2023-01-23 23:12:00] SELL EXECUTED, Price: 22893.69, Close: 22894.30, Open: 22895.54, low: 22894.30, high: 22895.73, Cost: 14.19, Comm 0.00
+Time at backtrader[2023-01-24 07:12:02.815553]
+Time at binance   [2023-01-23 23:12:00] SELL EXECUTED, Price: 22893.69, Close: 22894.30, Open: 22895.54, low: 22894.30, high: 22895.73, Cost: 14.19, Comm 0.00
+Time at backtrader[2023-01-24 07:12:03.356712]
+3.0  --- HOUR --- 
+Time at binance   [2023-01-24 00:12:00] Buy ordered: $22930.16. Amount 0.000627 BTC. Ballance $14.53 USDT
+Time at backtrader[2023-01-24 08:12:01.084563]
+Time at binance   [2023-01-24 00:12:00] BUY EXECUTED, Price: 22933.17, Close: 22930.16, Open: 22929.57, low: 22929.57, high: 22930.16, Cost: 14.22, Comm 0.00,
+Time at backtrader[2023-01-24 08:12:02.663624]
+Time at binance   [2023-01-24 00:12:00] BUY EXECUTED, Price: 22933.17, Close: 22930.16, Open: 22929.57, low: 22929.57, high: 22930.16, Cost: 14.22, Comm 0.00,
+Time at backtrader[2023-01-24 08:12:03.193192]
+4.0  --- HOUR --- 
+Time at binance   [2023-01-24 01:12:00] Sell ordered: $22996.28. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 09:12:01.269935]
+Time at binance   [2023-01-24 01:12:00] SELL EXECUTED, Price: 22996.27, Close: 22996.28, Open: 22995.81, low: 22995.47, high: 22996.28, Cost: 14.26, Comm 0.00
+Time at backtrader[2023-01-24 09:12:02.851609]
+Time at binance   [2023-01-24 01:12:00] SELL EXECUTED, Price: 22996.27, Close: 22996.28, Open: 22995.81, low: 22995.47, high: 22996.28, Cost: 14.26, Comm 0.00
+Time at backtrader[2023-01-24 09:12:03.360221]
+5.0  --- HOUR --- 
+Time at binance   [2023-01-24 02:12:00] Buy ordered: $23090.22. Amount 0.000625 BTC. Ballance $14.57 USDT
+Time at backtrader[2023-01-24 10:12:01.316840]
+Time at binance   [2023-01-24 02:12:00] BUY EXECUTED, Price: 23092.16, Close: 23090.22, Open: 23089.21, low: 23089.21, high: 23090.22, Cost: 14.32, Comm 0.00,
+Time at backtrader[2023-01-24 10:12:02.891687]
+Time at binance   [2023-01-24 02:12:00] BUY EXECUTED, Price: 23092.16, Close: 23090.22, Open: 23089.21, low: 23089.21, high: 23090.22, Cost: 14.32, Comm 0.00,
+Time at backtrader[2023-01-24 10:12:03.393344]
+6.0  --- HOUR --- 
+Time at binance   [2023-01-24 03:12:00] Sell ordered: $23025.46. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 11:12:01.249407]
+Time at binance   [2023-01-24 03:12:00] SELL EXECUTED, Price: 23025.24, Close: 23025.46, Open: 23025.57, low: 23024.45, high: 23025.57, Cost: 14.28, Comm 0.00
+Time at backtrader[2023-01-24 11:12:02.888771]
+Time at binance   [2023-01-24 03:12:00] SELL EXECUTED, Price: 23025.24, Close: 23025.46, Open: 23025.57, low: 23024.45, high: 23025.57, Cost: 14.28, Comm 0.00
+Time at backtrader[2023-01-24 11:12:03.408895]
+7.0  --- HOUR --- 
+Time at binance   [2023-01-24 04:12:00] Buy ordered: $23088.43. Amount 0.000623 BTC. Ballance $14.53 USDT
+Time at backtrader[2023-01-24 12:12:01.368986]
+Time at binance   [2023-01-24 04:12:00] BUY EXECUTED, Price: 23089.27, Close: 23088.43, Open: 23087.71, low: 23087.71, high: 23089.05, Cost: 14.32, Comm 0.00,
+Time at backtrader[2023-01-24 12:12:02.959692]
+Time at binance   [2023-01-24 04:12:00] BUY EXECUTED, Price: 23089.27, Close: 23088.43, Open: 23087.71, low: 23087.71, high: 23089.05, Cost: 14.32, Comm 0.00,
+Time at backtrader[2023-01-24 12:12:03.504597]
+8.0  --- HOUR --- 
+Time at binance   [2023-01-24 05:12:00] Sell ordered: $23042.28. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 13:12:01.206517]
+Time at binance   [2023-01-24 05:12:00] SELL EXECUTED, Price: 23040.63, Close: 23042.28, Open: 23042.00, low: 23041.25, high: 23042.28, Cost: 14.29, Comm 0.00
+Time at backtrader[2023-01-24 13:12:02.805508]
+Time at binance   [2023-01-24 05:12:00] SELL EXECUTED, Price: 23040.63, Close: 23042.28, Open: 23042.00, low: 23041.25, high: 23042.28, Cost: 14.29, Comm 0.00
+Time at backtrader[2023-01-24 13:12:03.354653]
+9.0  --- HOUR --- 
+Time at binance   [2023-01-24 06:12:00] Buy ordered: $23130.51. Amount 0.000621 BTC. Ballance $14.50 USDT
+Time at backtrader[2023-01-24 14:12:01.372012]
+Time at binance   [2023-01-24 06:12:00] BUY EXECUTED, Price: 23129.00, Close: 23130.51, Open: 23130.65, low: 23130.51, high: 23130.65, Cost: 14.34, Comm 0.00,
+Time at backtrader[2023-01-24 14:12:02.985754]
+Time at binance   [2023-01-24 06:12:00] BUY EXECUTED, Price: 23129.00, Close: 23130.51, Open: 23130.65, low: 23130.51, high: 23130.65, Cost: 14.34, Comm 0.00,
+Time at backtrader[2023-01-24 14:12:03.548828]
+10.0  --- HOUR --- 
+Time at binance   [2023-01-24 07:05:00] Sell ordered: $23109.97. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 15:05:01.399157]
+Time at binance   [2023-01-24 07:05:00] SELL EXECUTED, Price: 23111.11, Close: 23109.97, Open: 23110.24, low: 23109.97, high: 23110.46, Cost: 14.33, Comm 0.00
+Time at backtrader[2023-01-24 15:05:03.234178]
+Time at binance   [2023-01-24 07:05:00] SELL EXECUTED, Price: 23111.11, Close: 23109.97, Open: 23110.24, low: 23109.97, high: 23110.46, Cost: 14.33, Comm 0.00
+Time at backtrader[2023-01-24 15:05:03.776226]
+11.0  --- HOUR --- 
+Time at binance   [2023-01-24 08:05:00] Buy ordered: $23067.64. Amount 0.000622 BTC. Ballance $14.49 USDT
+Time at backtrader[2023-01-24 16:05:01.326114]
+Time at binance   [2023-01-24 08:05:00] BUY EXECUTED, Price: 23067.91, Close: 23067.64, Open: 23067.23, low: 23066.84, high: 23067.64, Cost: 14.30, Comm 0.00,
+Time at backtrader[2023-01-24 16:05:02.950939]
+Time at binance   [2023-01-24 08:05:00] BUY EXECUTED, Price: 23067.91, Close: 23067.64, Open: 23067.23, low: 23066.84, high: 23067.64, Cost: 14.30, Comm 0.00,
+Time at backtrader[2023-01-24 16:05:03.514261]
+12.0  --- HOUR --- 
+Time at binance   [2023-01-24 09:05:00] Sell ordered: $22932.98. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 17:05:01.523857]
+Time at binance   [2023-01-24 09:05:00] SELL EXECUTED, Price: 22918.78, Close: 22932.98, Open: 22931.96, low: 22929.53, high: 22935.42, Cost: 14.21, Comm 0.00
+Time at backtrader[2023-01-24 17:05:03.120462]
+Time at binance   [2023-01-24 09:05:00] SELL EXECUTED, Price: 22918.78, Close: 22932.98, Open: 22931.96, low: 22929.53, high: 22935.42, Cost: 14.21, Comm 0.00
+Time at backtrader[2023-01-24 17:05:03.616046]
+13.0  --- HOUR --- 
+Time at binance   [2023-01-24 10:05:00] Buy ordered: $22905.38. Amount 0.000622 BTC. Ballance $14.39 USDT
+Time at backtrader[2023-01-24 18:05:00.869684]
+Time at binance   [2023-01-24 10:05:00] BUY EXECUTED, Price: 22903.75, Close: 22905.38, Open: 22905.38, low: 22905.38, high: 22905.38, Cost: 14.20, Comm 0.00,
+Time at backtrader[2023-01-24 18:05:02.476119]
+Time at binance   [2023-01-24 10:05:00] BUY EXECUTED, Price: 22903.75, Close: 22905.38, Open: 22905.38, low: 22905.38, high: 22905.38, Cost: 14.20, Comm 0.00,
+Time at backtrader[2023-01-24 18:05:03.225011]
+14.0  --- HOUR --- 
+Time at binance   [2023-01-24 11:05:00] Sell ordered: $22906.31. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 19:05:00.878901]
+Time at binance   [2023-01-24 11:05:00] SELL EXECUTED, Price: 22904.15, Close: 22906.31, Open: 22906.31, low: 22906.31, high: 22906.31, Cost: 14.20, Comm 0.00
+Time at backtrader[2023-01-24 19:05:02.488304]
+Time at binance   [2023-01-24 11:05:00] SELL EXECUTED, Price: 22904.15, Close: 22906.31, Open: 22906.31, low: 22906.31, high: 22906.31, Cost: 14.20, Comm 0.00
+Time at backtrader[2023-01-24 19:05:03.008488]
+15.0  --- HOUR --- 
+Time at binance   [2023-01-24 12:05:00] Buy ordered: $22914.26. Amount 0.000622 BTC. Ballance $14.40 USDT
+Time at backtrader[2023-01-24 20:05:01.141288]
+Time at binance   [2023-01-24 12:05:00] BUY EXECUTED, Price: 22917.33, Close: 22914.26, Open: 22914.26, low: 22914.26, high: 22914.26, Cost: 14.21, Comm 0.00,
+Time at backtrader[2023-01-24 20:05:02.809195]
+Time at binance   [2023-01-24 12:05:00] BUY EXECUTED, Price: 22917.33, Close: 22914.26, Open: 22914.26, low: 22914.26, high: 22914.26, Cost: 14.21, Comm 0.00,
+Time at backtrader[2023-01-24 20:05:03.409700]
+16.0  --- HOUR --- 
+Time at binance   [2023-01-24 13:05:00] Sell ordered: $22980.74. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 21:05:01.173256]
+Time at binance   [2023-01-24 13:05:00] SELL EXECUTED, Price: 22980.12, Close: 22980.74, Open: 22981.07, low: 22980.74, high: 22981.07, Cost: 14.25, Comm 0.00
+Time at backtrader[2023-01-24 21:05:03.088203]
+Time at binance   [2023-01-24 13:05:00] SELL EXECUTED, Price: 22980.12, Close: 22980.74, Open: 22981.07, low: 22980.74, high: 22981.07, Cost: 14.25, Comm 0.00
+Time at backtrader[2023-01-24 21:05:03.670789]
+17.0  --- HOUR --- 
+Time at binance   [2023-01-24 14:05:00] Buy ordered: $22874.04. Amount 0.000625 BTC. Ballance $14.43 USDT
+Time at backtrader[2023-01-24 22:05:01.181370]
+Time at binance   [2023-01-24 14:05:00] BUY EXECUTED, Price: 22875.93, Close: 22874.04, Open: 22872.90, low: 22871.72, high: 22874.04, Cost: 14.18, Comm 0.00,
+Time at backtrader[2023-01-24 22:05:03.115737]
+Time at binance   [2023-01-24 14:05:00] BUY EXECUTED, Price: 22875.93, Close: 22874.04, Open: 22872.90, low: 22871.72, high: 22874.04, Cost: 14.18, Comm 0.00,
+Time at backtrader[2023-01-24 22:05:03.664300]
+18.0  --- HOUR --- 
+Time at binance   [2023-01-24 15:05:00] Sell ordered: $22811.02. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-24 23:05:01.481841]
+Time at binance   [2023-01-24 15:05:00] SELL EXECUTED, Price: 22811.14, Close: 22811.02, Open: 22811.03, low: 22811.02, high: 22811.03, Cost: 14.14, Comm 0.00
+Time at backtrader[2023-01-24 23:05:03.498283]
+Time at binance   [2023-01-24 15:05:00] SELL EXECUTED, Price: 22811.14, Close: 22811.02, Open: 22811.03, low: 22811.02, high: 22811.03, Cost: 14.14, Comm 0.00
+Time at backtrader[2023-01-24 23:05:04.068414]
+19.0  --- HOUR --- 
+Time at binance   [2023-01-24 16:05:00] Buy ordered: $22927.95. Amount 0.000622 BTC. Ballance $14.39 USDT
+Time at backtrader[2023-01-25 00:05:00.945706]
+Time at binance   [2023-01-24 16:05:00] BUY EXECUTED, Price: 22924.96, Close: 22927.95, Open: 22927.95, low: 22927.95, high: 22927.95, Cost: 14.21, Comm 0.00,
+Time at backtrader[2023-01-25 00:05:02.537120]
+Time at binance   [2023-01-24 16:05:00] BUY EXECUTED, Price: 22924.96, Close: 22927.95, Open: 22927.95, low: 22927.95, high: 22927.95, Cost: 14.21, Comm 0.00,
+Time at backtrader[2023-01-25 00:05:03.084470]
+20.0  --- HOUR --- 
+Time at binance   [2023-01-24 17:05:00] Sell ordered: $22829.08. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-25 01:05:00.925373]
+Time at binance   [2023-01-24 17:05:00] SELL EXECUTED, Price: 22830.03, Close: 22829.08, Open: 22829.08, low: 22829.08, high: 22829.08, Cost: 14.15, Comm 0.00
+Time at backtrader[2023-01-25 01:05:02.512806]
+Time at binance   [2023-01-24 17:05:00] SELL EXECUTED, Price: 22830.03, Close: 22829.08, Open: 22829.08, low: 22829.08, high: 22829.08, Cost: 14.15, Comm 0.00
+Time at backtrader[2023-01-25 01:05:03.104317]
+21.0  --- HOUR --- 
+Time at binance   [2023-01-24 18:05:00] Buy ordered: $22885.45. Amount 0.000620 BTC. Ballance $14.33 USDT
+Time at backtrader[2023-01-25 02:05:01.242005]
+Time at binance   [2023-01-24 18:05:00] BUY EXECUTED, Price: 22888.96, Close: 22885.45, Open: 22885.56, low: 22883.81, high: 22887.84, Cost: 14.19, Comm 0.00,
+Time at backtrader[2023-01-25 02:05:02.812874]
+Time at binance   [2023-01-24 18:05:00] BUY EXECUTED, Price: 22888.96, Close: 22885.45, Open: 22885.56, low: 22883.81, high: 22887.84, Cost: 14.19, Comm 0.00,
+Time at backtrader[2023-01-25 02:05:03.370330]
+22.0  --- HOUR --- 
+Time at binance   [2023-01-24 19:05:00] Sell ordered: $22973.42. Amount 0.000624 BTC - $0.00 USDT
+Time at backtrader[2023-01-25 03:05:01.279430]
+Time at binance   [2023-01-24 19:05:00] SELL EXECUTED, Price: 22969.93, Close: 22973.42, Open: 22973.02, low: 22973.02, high: 22973.42, Cost: 14.24, Comm 0.00
+Time at backtrader[2023-01-25 03:05:02.859788]
+Time at binance   [2023-01-24 19:05:00] SELL EXECUTED, Price: 22969.93, Close: 22973.42, Open: 22973.02, low: 22973.02, high: 22973.42, Cost: 14.24, Comm 0.00
+Time at backtrader[2023-01-25 03:05:03.437580]
+23.0  --- HOUR --- 
+Time at binance   [2023-01-24 20:05:00] Buy ordered: $23019.42. Amount 0.000619 BTC. Ballance $14.39 USDT
+Time at backtrader[2023-01-25 04:05:01.278696]
+Time at binance   [2023-01-24 20:05:00] BUY EXECUTED, Price: 23019.65, Close: 23019.42, Open: 23017.51, low: 23017.48, high: 23019.42, Cost: 14.04, Comm 0.00,
+Time at backtrader[2023-01-25 04:05:03.084055]
+Time at binance   [2023-01-24 20:05:00] BUY EXECUTED, Price: 23019.65, Close: 23019.42, Open: 23017.51, low: 23017.48, high: 23019.42, Cost: 14.04, Comm 0.00,
+Time at backtrader[2023-01-25 04:05:03.577105]
