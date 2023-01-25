@@ -18,7 +18,6 @@ class BasicRSI(StrategyBase):
         self.ema_fast = bt.indicators.EMA(period=self.p.period_ema_fast)
         self.ema_slow = bt.indicators.EMA(period=self.p.period_ema_slow)
         self.rsi = bt.indicators.RelativeStrengthIndex()
-        self.count = 0
 
         self.profit = 0
         self.count = 0
@@ -77,13 +76,10 @@ class BasicRSI(StrategyBase):
         #     self.log("STOP LOSS: percentage %.3f %%" % self.profit)
         #     self.short()
 
-        if self.count % 60 == 0:
-            print(self.count / 60, " --- HOUR --- ")
+        if self.last_operation != "SELL":
+            # if self.rsi > 53:
+            self.short()
 
-            if self.last_operation != "SELL":
-                # if self.rsi > 53:
-                self.short()
-
-            if self.last_operation != "BUY":
-                # if self.rsi < 47 and self.ema_fast > self.ema_slow:
-                self.long()
+        if self.last_operation != "BUY":
+            # if self.rsi < 47 and self.ema_fast > self.ema_slow:
+            self.long()
